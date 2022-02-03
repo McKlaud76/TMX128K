@@ -6,7 +6,7 @@ Date: 01/02/2022
 
 Revision: 0.2
 
-![128K-for-TC2068](/Docs/TC2068_128K 4in1_v0_2.png)
+![3D model](/Docs/TC2068_128K 4in1_v0_2.png)
 
 #### Embeded features:
 
