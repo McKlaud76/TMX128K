@@ -4,7 +4,7 @@
 
 Date: 01/02/2022
 
-Revision: 0.2
+Revision: 0.2 (Work in progress)
 
 ![3D model](/Docs/TC2068_128K_4in1_v0_2.png)
 
