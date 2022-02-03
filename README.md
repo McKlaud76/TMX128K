@@ -6,7 +6,7 @@ Date: 01/02/2022
 
 Revision: 0.2
 
-![3D model](./Docs/TC2068_128K 4in1_v0_2.png)
+![3D model](/Docs/TC2068_128K_4in1_v0_2.png)
 
 #### Embeded features:
 
@@ -23,7 +23,7 @@ If you are interested in hardware tests watch my [YouTube Channel](https://youtu
 ### Photos
 
 Prototype board
-![Prototype](./Docs/4_in1__128K_TC2068.jpg)
+![Prototype](/Docs/4_in1__128K_TC2068.jpg)
 
 ### Warranty
 
