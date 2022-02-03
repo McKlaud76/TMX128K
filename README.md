@@ -22,7 +22,7 @@ If you are interested in hardware tests watch my [YouTube Channel](https://youtu
 
 ### Photos
 
-Prototype board
+Prototype board (rev. 0.1)
 ![Prototype](/Docs/4_in1__128K_TC2068.jpg)
 
 ### Warranty
