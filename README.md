@@ -6,7 +6,7 @@ Date: 01/02/2022
 
 Revision: 0.2
 
-![128K-for-TC2068](/Docs/4_in1__128K_TC2068.jpg)
+![128K-for-TC2068](/Docs/TC2068_128K 4in1_v0_2.png)
 
 #### Embeded features:
 
@@ -17,6 +17,13 @@ Revision: 0.2
 * Kempston joystick interface,
 * RGB video outputs,
 * RESET button.
+
+If you are interested in hardware tests watch my [YouTube Channel](https://youtu.be/7duh5zHNvDc)
+
+### Photos
+
+Prototype board
+![Prototype](/Docs/4_in1__128K_TC2068.jpg)
 
 ### Warranty
 
