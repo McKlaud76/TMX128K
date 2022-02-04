@@ -1,4 +1,5 @@
 # 128K expansion board for Timex Computer 2068
+based on [Superfo's works](https://worldofspectrum.org/forums/discussion/comment/790105/#Comment_790105)
 
 © 2022 KWF
 
