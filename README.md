@@ -1,4 +1,4 @@
-# 128K expantion for Timex Computer 2068
+# 128K expansion board for Timex Computer 2068
 
 © 2022 KWF
 
@@ -18,7 +18,7 @@ Revision: 0.2 (Work in progress)
 * RGB video outputs,
 * RESET button.
 
-If you are interested in hardware tests watch my [YouTube Channel](https://youtu.be/7duh5zHNvDc)
+If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://youtu.be/7duh5zHNvDc)
 
 ### Photos
 
