@@ -1,4 +1,5 @@
-# 128K expansion board for Timex Computers (TC2048/2068 & UK2068)
+# 128K expansion board for Timex Computers 
+### Portuguese models TC 2048, TC 2068 and Polish UK2068
 based on [Superfo's works](https://worldofspectrum.org/forums/discussion/comment/790105/#Comment_790105)
 
 © 2022 KWF
