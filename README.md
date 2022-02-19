@@ -12,19 +12,19 @@ Revision: 0.2
 
 #### Embeded and tested features:
 
-* 2 x 32KB ROM                                                (checked)
-* 128 KB RAM with ZX Spectrum +2A/B & +3 paging modes         (checked)
-* control logic in CPLD (XC9536XL type)                       (checked)
-* AY-3-8910 sound chip controlled with ZX128K ports           (checked)
-* Kempston joystick interface                                 (checked)
-* RGB video outputs                                           (checked)
-* RESET button                                                (checked)
+* 2 x 32KB ROM (tested OK)
+* 128 KB RAM with ZX Spectrum +2A/B & +3 paging modes (tested OK)
+* control logic in CPLD (tested OK)
+* AY-3-8910 sound chip controlled with ZX128K ports (tested OK)
+* Kempston joystick interface (tested OK)
+* RGB video outputs (tested OK)
+* RESET button (tested OK)
 
 If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://youtu.be/7duh5zHNvDc)
 
-The version 0.2 will be open to with schematic and Gerber files available to the publiic. The CPLD impletmentation is closed and the complie file will be available only. 
+The version 0.2 will be open with the schematic diagram and Gerber files available to the publiic. The CPLD impletmentation is closed and the pre-compilied file will be available only. 
 
-Note that any other inteface with its own ROM requires additional wiring around /ROMCS lines (towards TC2068 and incomming from any other extenal interface). The wiring enables compability with interfaces like DivMMC/DivSD however they require basic knowlage of electronic. Also the order of interfaces connected to TC2068 is cricital and the first device to the computer edge connector must be TMX128.
+Note that any other inteface with its own ROM requires additional wiring around /ROMCS lines (towards TC2068 and incomming from any other extenal interface). The wiring enables compability with interfaces like DivMMC/DivSD. Also the sequence of interfaces connected to TC2068 is cricital. The first device attached to the computer edge connector must be TMX128 otherwise it will now work correctly.
 
 ### Use with TC2048
 
