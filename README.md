@@ -1,5 +1,5 @@
 # 128K expansion board for Timex Computers 
-### limited to Portuguese models TC 2048, TC 2068 and Polish UK2086
+### limited to Portuguese TC 2068 and Polish UK2086
 based on [Superfo's works](https://worldofspectrum.org/forums/discussion/comment/790105/#Comment_790105)
 
 © 2022 KWF
