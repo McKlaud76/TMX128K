@@ -6,7 +6,7 @@ based on [Superfo's works](https://worldofspectrum.org/forums/discussion/comment
 
 Date: 19/02/2022
 
-Revision: 0.2
+Revision: 0.2 
 
 ![3D model](/Docs/TC2068_128K_4in1_01.png)
 
@@ -19,6 +19,8 @@ Revision: 0.2
 * Kempston joystick interface (tested OK)
 * RGB video outputs (tested OK)
 * RESET button (tested OK)
+
+Schematic diagram is available in the /Docs sub-folder.
 
 If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://youtu.be/7duh5zHNvDc)
 
