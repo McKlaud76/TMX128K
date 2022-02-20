@@ -20,7 +20,7 @@ Revision: 0.2
 * RGB video outputs (tested OK)
 * RESET button (tested OK)
 
-Schematic diagram is available in the /Docs sub-folder.
+The schematic diagram is available in the /Docs sub-folder.
 
 If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://youtu.be/7duh5zHNvDc)
 
