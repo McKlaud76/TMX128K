@@ -28,7 +28,7 @@ Note that any other inteface with its own ROM requires additional wiring around 
 
 ### Use with TC2048
 
-The IF has been successfully tested with TC2048. In this case, RGB output does not works due to a different signal's alocations on the egde connector. Also a simple modification to TC2048 internals is essential. The missing /BE signal at the TC2048 edge connector needs to be wiried with a short wire from SCLD chip direcly. Pad number 4 on the top side of the main board is not used in any ZX Spectrum machine and it is recommenced for /BE wiring.
+The IF has been successfully tested with TC2048. In this case, RGB output does not works due to different signal's alocations on the egde connector. Also a simple modification to TC2048 internals is essential. The missing /BE signal at the TC2048 edge connector needs to be wiried with a short wire from SCLD chip direcly. Pad number 4 on the top side of the main board is not used in any ZX Spectrum machine and it is recommenced for /BE wiring.
 
 ### Photos
 
