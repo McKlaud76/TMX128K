@@ -24,7 +24,7 @@ If you are interested in hardware's tests and how it works, have a look there: [
 
 The version 0.2 will be open with the schematic diagram and Gerber files available to the publiic. The CPLD impletmentation is closed and the pre-compilied file will be available only. 
 
-Note that any other inteface with its own ROM requires additional wiring around /ROMCS lines (towards TC2068 and incomming from any other extenal interface). The wiring enables compability with interfaces like DivMMC/DivSD. Also the sequence of interfaces connected to TC2068 is cricital. The first device attached to the computer edge connector must be TMX128 otherwise it will now work correctly.
+Note that any other inteface with its own ROM requires additional wiring around /ROMCS lines (towards TC2068 and incomming from any other extenal interface). The wiring enables compability with interfaces like DivMMC/DivSD. Also the order of interfaces connected to TC2068 is cricital. The first device attached to the computer's edge connector must be TMX128 otherwise it will now work correctly.
 
 ### Use with TC2048
 
