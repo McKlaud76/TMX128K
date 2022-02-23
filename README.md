@@ -4,7 +4,7 @@ based on [Superfo's works](https://worldofspectrum.org/forums/discussion/comment
 
 © 2022 KWF
 
-Date: 20/02/2022
+Date: 22/02/2022
 
 Revision: 0.2 
 
@@ -24,7 +24,7 @@ The schematic diagram is available in the /Docs sub-folder.
 
 If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://youtu.be/7duh5zHNvDc)
 
-The version 0.2 will be open with the schematic diagram and Gerber files available to the publiic. The CPLD impletmentation is closed and the pre-compilied file will be available only. 
+The version 0.2 will be open with the schematic diagram and Gerber files available to the publiic. The CPLD impletmentation is closed and the pre-compilied file is available for XC9536XL type only. 
 
 Note that any other inteface with its own ROM requires additional wiring around /ROMCS lines (towards TC2068 and incomming from any other extenal interface). The wiring enables compability with interfaces like DivMMC/DivSD. Also the order of interfaces connected to TC2068 is cricital. The first device attached to the computer's edge connector must be TMX128 otherwise it will now work correctly.
 
