@@ -37,6 +37,9 @@ The IF has been successfully tested with TC2048. In this case, RGB output does n
 Prototype board (rev. 0.1)
 ![Prototype](/Docs/TC2068_128K_4in1_02.jpg)
 
+Board (rev. 0.2) in tests with DivMMC
+![Board rev 0.2](/Docs/TC2068_128K_4in1_03.jpg)
+
 ### Warranty
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
