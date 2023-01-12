@@ -1,3 +1,4 @@
-Pre-complied files for Xilinx CPLD types:
-* XC9536XL-10PCG44
-* XC9572XL-10PCG44 (WiP)
+Pre-complied file for Xilinx CPLD XC9536XL-10PCG44 type in the zip file.
+
+Works in progress for:
+* XC9572XL-10PCG44
