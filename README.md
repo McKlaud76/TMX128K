@@ -40,6 +40,9 @@ Prototype board (rev. 0.1)
 Board (rev. 0.2) in tests with DivMMC
 ![Board rev 0.2](/Docs/TC2068_128K_4in1_03.jpg)
 
+### Ordering PCB
+[![PCBway](https://www.pcbway.com/project/img/images/frompcbway-1220.png)](https://www.pcbway.com/project/shareproject/TMX128K_RAM_expansion_board_for_Timex_Computer_2068_d7ce8806.html)
+
 ### Warranty
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
